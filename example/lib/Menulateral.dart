@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: Image.asset('img/Edupay.png'), // Replace with your logo
+        leading: Image.asset('assets/images/Edupay.png'), // Replace with your logo
         title: Text('Edupay'), // Replace with your app's title
         actions: [
           IconButton(
@@ -72,6 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
             label: 'Notificaciones',
           ),
         ],
+        elevation: 10.0,
       ),
     );
   }

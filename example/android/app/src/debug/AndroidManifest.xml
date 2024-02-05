@@ -3,7 +3,7 @@
          to allow setting breakpoints, to provide hot reload, etc.
     -->
     <application xmlns:tools="http://schemas.android.com/tools"
-        android:label="flutter_login [D]"
+        android:label="Edupay"
         tools:replace="android:label">
     </application>
     <uses-permission android:name="android.permission.INTERNET"/>

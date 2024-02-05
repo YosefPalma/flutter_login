@@ -1,6 +1,6 @@
 const mockUsers = {
-  'dribbble@gmail.com': '12345',
+  'yisus@gmail.com': 'yisus',
   'edupay@gmail.com': 'edupay',
-  'near.huscarl@gmail.com': 'subscribe to pewdiepie',
+  'Joel@gmail.com': 'puro10',
   '@.com': '.',
 };
